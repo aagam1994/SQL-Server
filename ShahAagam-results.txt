@@ -1,0 +1,44 @@
+﻿PMA42628M	Paolo	Accorti	Sales Representative	35	Binnet & Hardley
+PSA89086M	Pedro	Afonso	Designer	89	Algodata Infosystems
+VPA30890F	Victoria	Ashworth	Managing Editor	140	Binnet & Hardley
+H-B39728F	Helen	Bennett	Editor	35	Binnet & Hardley
+L-B31947F	Lesley	Brown	Marketing Manager	120	Binnet & Hardley
+F-C16315M	Francisco	Chang	Chief Financial Officier	227	Scootney Books
+PTC11962M	Philip	Cramer	Chief Executive Officer	215	Scootney Books
+A-C71970F	Aria	Cruz	Productions Manager	87	Algodata Infosystems
+AMD15433F	Ann	Devon	Business Operations Manager	200	Scootney Books
+ARD36773F	Anabela	Domingues	Public Relations Manager	100	Binnet & Hardley
+PHF38899M	Peter	Franken	Productions Manager	75	Binnet & Hardley
+PXH22250M	Paul	Henriot	Publisher	159	Binnet & Hardley
+CFH28514M	Carlos	Hern dez	Publisher	211	Lucerne Publishing
+PDI47470M	Palle	Ibsen	Marketing Manager	195	New Moon Books
+KJJ92907F	Karla	Jablonski	Acquisitions Manager	170	Lucerne Publishing
+KFJ64308F	Karin	Josephs	Designer	100	New Moon Books
+MGK44605M	Matti	Karttunen	Managing Editor	220	New Moon Books
+POK93028M	Pirkko	Koskitalo	Productions Manager	80	Lucerne Publishing
+JYL26161F	Janine	Labrune	Publisher	172	GGG&G
+M-L67958F	Maria	Larsson	Marketing Manager	135	Algodata Infosystems
+Y-L77953M	Yoshi	Latimer	Editor	32	Algodata Infosystems
+LAL21447M	Laurence	Lebihan	Publisher	175	New Moon Books
+ENL44273F	Elizabeth	Lincoln	Designer	35	Binnet & Hardley
+PCM98509F	Patricia	McKenna	Operations Manager	150	Lucerne Publishing
+R-M53550M	Roland	Mendel	Operations Manager	150	New Moon Books
+RBM23061F	Rita	Mnller	Publisher	198	Five Lakes Publishing
+HAN90777M	Helvetius	Nagy	Marketing Manager	120	Lucerne Publishing
+TPO55093M	Timothy	O'Rourke	Sales Representative	100	New Moon Books
+SKO22412M	Sven	Ottlieb	Publisher	150	Algodata Infosystems
+MAP77183M	Miguel	Paolino	Operations Manager	112	Algodata Infosystems
+PSP68661F	Paula	Parente	Public Relations Manager	125	Algodata Infosystems
+M-P91209M	Manuel	Pereira	Public Relations Manager	101	Lucerne Publishing
+MJP25939M	Maria	Pontes	Publisher	246	Ramona Publishers
+M-R38834F	Martine	RancT	Acquisitions Manager	75	Binnet & Hardley
+DWR65030M	Diego	Roel	Managing Editor	192	Algodata Infosystems
+A-R89858F	Annette	Roulet	Managing Editor	152	Lucerne Publishing
+MMS49649F	Mary	Saveley	Public Relations Manager	175	New Moon Books
+CGS88322F	Carine	Schmitt	Sales Representative	64	Algodata Infosystems
+ASS35540M	Aagam	Shah	Operations Manager	75	Binnet & Hardley
+MAS70474F	Margaret	Smith	Acquisitions Manager	78	Algodata Infosystems
+HAS54740M	Howard	Snyder	Editor	100	New Moon Books
+MFS52347M	Martfn	Sommer	Productions Manager	165	New Moon Books
+GHT50241M	Gary	Thomas	Acquisitions Manager	170	New Moon Books
+DBT39435M	Daniel	Tonini	Operations Manager	75	Binnet & Hardley
